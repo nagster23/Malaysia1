@@ -42,7 +42,7 @@
          height: 30px;
      } */
      .sticky {
-        margin-top: 15px;
+        margin-top: 50%;
         left: 92%;
          display: block;
       
@@ -71,6 +71,11 @@
          /* padding: 40px; */
          margin-top: -35px;
          text-align: justify;
+     }
+
+     .h2Nature {
+         font-size: 40px;
+         padding: 10px;
      }
 
         .column {
