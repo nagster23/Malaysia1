@@ -1,0 +1,148 @@
+
+@media screen and (min-width: 961px) {
+    
+    .head1 {
+        font-size: 80px;    
+    }
+
+    .begin2 {
+        font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+    body, html {
+     
+        font-size: 25px;
+    
+    }
+    .head1 { font-size: 55px;
+    margin-bottom: -20px;
+    }
+
+    .begin2 {
+        font-size: 30px;
+    }
+
+    button {
+      
+        display: inline-block;
+        padding: 10px 5px;
+        
+     }
+
+     .button1 {
+         padding: 10px;
+         font-size: 18px;
+         margin-bottom: 30px;
+     }
+
+     /* .sticky {
+         width: 30px;
+         height: 30px;
+     } */
+     .sticky {
+        margin-top: 15px;
+        left: 92%;
+         display: block;
+      
+        position: fixed;
+        top: 0;
+        width: 30px;
+        height: 30px;
+       
+    }
+     .begin2 {
+         margin: 25px;
+         margin-bottom: 10px;
+     }
+
+     .p01 {
+         text-align: justify;
+     }
+
+     p {
+         padding: 20px;
+         margin-bottom: -30px;
+     }
+
+     .p2 {
+         /* border: 1px solid black; */
+         /* padding: 40px; */
+         margin-top: -35px;
+         text-align: justify;
+     }
+
+        .column {
+            /* border:  1px solid black; */
+            width: 100%;
+            height: 100%;
+          
+
+        
+        }
+
+     .m1, .m2, .m3, .m4, .m5, .m6 {
+       /* border: 1px solid red; */
+       margin-bottom: 7px;
+       width: 100%;
+
+     }
+
+     .p101 {
+         text-align: justify;
+         margin-bottom: -20px;
+     }
+
+     .sec1, .sec2, .sec3, .sec4 {
+        /* border: 1px solid black; */
+        padding: 5px;
+        margin-bottom: 10px;
+        /* margin-right: -40px; */
+     }
+     .h03 {
+         padding: 18px;
+         
+         margin-bottom: -40px;
+     }
+     .ikan {
+         padding: 18px;
+         margin-bottom: -40px;
+     }
+
+     footer {
+         font-size: 15px;
+         
+     }
+
+     .image1 {
+        margin-top: -50px;
+            float: left;
+            width: 100%;
+            height: 100%;
+        }
+
+        .image2 {
+            float: right;
+            margin-top: -20px;
+            width: 100%;
+            height: 100%;
+        }
+
+
+        .image3 {
+            float: left;
+            margin-top: -15px;
+            width: 100%;
+            height: 100%;
+        }
+
+        .image4 {
+            float: right;
+           margin-top: -15px;
+           width: 100%;
+           height: 100%;
+        }
+        
+
+    }
